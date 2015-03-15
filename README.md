@@ -1,5 +1,5 @@
 # weasel.py
 
-Implementation of "weasel program" in python.
+Implementation of the "weasel program" in python.
 
-For more details check this [page](elaq.github.io/weasel).
+For more details check this [page](http://elaq.github.io/weasel).
